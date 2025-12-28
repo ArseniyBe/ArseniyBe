@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArseniyBe
 - 👀 I’m interested in Operating Systems and MS-DOS specifically
-- 🌱 I’m currently learning algorithms and then soon, OS concepts, C++, Python, etc
+- 🌱 I’m currently learning AI and possibly making a GPT-2-derived bot
 - 🌳 I know C, Assembly, HTML/CSS, some Python, x86 Assembly, PHP, MySQL, basic knowledge of operating systems, Java, and some C++
 - 💞️ I’m looking to collaborate on nothing(yet)
 - 📫 How to reach me - email: leninyt95@gmail.com
